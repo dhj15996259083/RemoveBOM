@@ -1,4 +1,7 @@
-µÚÒ»²½£ºä¯ÀÀÄãÒªÒÆ³ýBOM±àÂëµÄÎÄ¼þ¼Ð¡£
-µÚ¶þ²½£ºµã»÷ÒÆ³ýbom£¬Ëæºó»áµ¯³öÌáÊ¾¿ò£¬ÌáÊ¾ÄãÒÆ³ý³É¹¦¡£
+# Requirements:
+1. jre8åŠä»¥ä¸Š
 
-×¢:¸Ã³ÌÐòÐèÒªjre1.8»·¾³
+# Usage:
+1. windowsä¸‹è¿è¡Œstart.bat,mac/linuxä¸‹è¿è¡Œstart.sh
+2. æµè§ˆä½ è¦ç§»é™¤BOMç¼–ç çš„æ–‡ä»¶å¤¹ã€‚
+3. ç‚¹å‡»ç§»é™¤bomï¼ŒéšåŽä¼šå¼¹å‡ºæç¤ºæ¡†ï¼Œæç¤ºä½ ç§»é™¤æˆåŠŸã€‚
